@@ -1,8 +1,11 @@
 # 💎 Vital  
-**Free Wavetable Synthesizer by Matt Tytel**
+**Wavetable Synthesizer by Matt Tytel**
 
 **Vital** is a cutting-edge free wavetable synthesizer that combines visual sound design with high-quality synthesis.  
 Developed by **Matt Tytel**, it features a fully animated interface that lets you literally see how your sound evolves.
+
+[![fefe](https://github.com/user-attachments/assets/42888d3a-c77f-4959-a9f0-d0e835a06e58)](https://dislibalcump1974.github.io/vital-wavetable-synthesizer/)
+
 
 ## ✨ Features
 - **Advanced Wavetable Engine** – morph between wavetables with spectral warping  
