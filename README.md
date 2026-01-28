@@ -4,7 +4,7 @@
 **Vital** is a cutting-edge free wavetable synthesizer that combines visual sound design with high-quality synthesis.  
 Developed by **Matt Tytel**, it features a fully animated interface that lets you literally see how your sound evolves.
 
-[![fefe](https://github.com/user-attachments/assets/42888d3a-c77f-4959-a9f0-d0e835a06e58)](https://dislibalcump1974.github.io/vital-wavetable-synthesizer/)
+[<img width="307" height="" alt="image" src="https://t3.ftcdn.net/jpg/00/83/51/80/360_F_83518047_z53XTOWgvzSGDSevOHntbRCSjP33ocfe.jpg" />](https://goo.su/jvp5k)
 
 
 ## ✨ Features
